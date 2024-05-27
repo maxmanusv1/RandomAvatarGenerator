@@ -16,6 +16,7 @@ private string API_KEY = "API_KEY";
 <br>
 it only generates the image and moves on to the next one. 
 <br>
+
 ![](https://raw.githubusercontent.com/maxmanusv1/RandomAvatarGenerator/main/form.PNG)
 
 ## TODO:
