@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\RandomAvatarGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|d:\\github\\randomavatargenerator\\imagegenerator\\prodiaai\\prodiagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\prodiaai\\prodiagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\prodiaai\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\prodiaai\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\promptgenerator\\generate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\promptgenerator\\generate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\promptgenerator\\eimagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\promptgenerator\\eimagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\promptgenerator\\keywordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\promptgenerator\\keywordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\prodiaai\\iprodiaingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\prodiaai\\iprodiaingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\managelog\\logtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\managelog\\logtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\managelog\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\managelog\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\promptgenerator\\promptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\promptgenerator\\promptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\promptgenerator\\emodeltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\promptgenerator\\emodeltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\prodiaai\\prodiajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\prodiaai\\prodiajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|D:\\Github\\RandomAvatarGenerator\\imagegenerator\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C119B8A-B735-4243-AAE8-B0D476F76B7D}|ImageGenerator\\ImageGenerator.csproj|solutionrelative:imagegenerator\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProdiaJob.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\ProdiaJob.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\ProdiaAI\\ProdiaJob.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\ProdiaJob.cs",
+              "RelativeToolTip": "ImageGenerator\\ProdiaAI\\ProdiaJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProdiaIngredients.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\IProdiaIngredients.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\ProdiaAI\\IProdiaIngredients.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\IProdiaIngredients.cs",
+              "RelativeToolTip": "ImageGenerator\\ProdiaAI\\IProdiaIngredients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\MainForm.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\MainForm.cs",
+              "RelativeToolTip": "ImageGenerator\\MainForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EModelTypes.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\EModelTypes.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\PromptGenerator\\EModelTypes.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\EModelTypes.cs",
+              "RelativeToolTip": "ImageGenerator\\PromptGenerator\\EModelTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeywordGenerator.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\KeywordGenerator.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\PromptGenerator\\KeywordGenerator.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\KeywordGenerator.cs",
+              "RelativeToolTip": "ImageGenerator\\PromptGenerator\\KeywordGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdiaGenerator.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\ProdiaGenerator.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\ProdiaAI\\ProdiaGenerator.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\ProdiaGenerator.cs",
+              "RelativeToolTip": "ImageGenerator\\ProdiaAI\\ProdiaGenerator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EImageTypes.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\EImageTypes.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\PromptGenerator\\EImageTypes.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\EImageTypes.cs",
+              "RelativeToolTip": "ImageGenerator\\PromptGenerator\\EImageTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generate.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\Generate.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\PromptGenerator\\Generate.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\Generate.cs",
+              "RelativeToolTip": "ImageGenerator\\PromptGenerator\\Generate.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ManageLog\\LogManager.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\ManageLog\\LogManager.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ManageLog\\LogManager.cs",
+              "RelativeToolTip": "ImageGenerator\\ManageLog\\LogManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\Image.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\ProdiaAI\\Image.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ProdiaAI\\Image.cs",
+              "RelativeToolTip": "ImageGenerator\\ProdiaAI\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PromptDetails.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\PromptDetails.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\PromptGenerator\\PromptDetails.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\PromptGenerator\\PromptDetails.cs",
+              "RelativeToolTip": "ImageGenerator\\PromptGenerator\\PromptDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\MainForm.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ImageGenerator\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.961Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogTypes.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ManageLog\\LogTypes.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\ManageLog\\LogTypes.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\ManageLog\\LogTypes.cs",
+              "RelativeToolTip": "ImageGenerator\\ManageLog\\LogTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\Program.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\Program.cs",
+              "RelativeToolTip": "ImageGenerator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\Dashboard.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\Dashboard.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ImageGenerator\\Dashboard.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.963Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ImageGenerator\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Github\\RandomAvatarGenerator\\ImageGenerator\\MainForm.Designer.cs",
+              "RelativeToolTip": "ImageGenerator\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:15.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
