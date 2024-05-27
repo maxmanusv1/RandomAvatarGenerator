@@ -7,7 +7,7 @@ Examples:<br>
 ![](https://raw.githubusercontent.com/maxmanusv1/RandomAvatarGenerator/main/ImageGenerator/bin/Debug/GeneratedImages/40a88f74-17cf-4777-a0e9-e95b9cadadc7.png)
 ![](https://raw.githubusercontent.com/maxmanusv1/RandomAvatarGenerator/main/ImageGenerator/bin/Debug/GeneratedImages/63e5efd5-695a-4a65-855d-06483fab5e60.png)
 
-Usage: 
+## Usage: 
 ```csharp
 //Paste your Prodia API Key here. 
 //in the ProdiaAI/ProdiaGenerator.cs
@@ -17,3 +17,6 @@ private string API_KEY = "API_KEY";
 it only generates the image and moves on to the next one. 
 <br>
 ![](https://raw.githubusercontent.com/maxmanusv1/RandomAvatarGenerator/main/form.PNG)
+
+## TODO:
+Prompts can be generated with Bard & ChatGPT so images can be uncommon.
